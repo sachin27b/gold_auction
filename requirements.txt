@@ -1,0 +1,6 @@
+numpy
+ipykernel
+pandas
+seaborn
+matplotlib
+pandas-profiling
